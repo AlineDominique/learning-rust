@@ -9,5 +9,3 @@ This repository serves as a centralized hub for my studies, experiments, and han
 - [ ] Build a basic CLI tool for data processing
 - [ ] Explore integration with Python (PyO3)
 
----
-*Part of my journey to expand from Python/Django expert into the Rust ecosystem.*
